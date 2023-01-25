@@ -1,0 +1,7 @@
+As the above data structures, the linked list is also a linear data structure. But Linked List is different from Array in its configuration. It is not allocated to contiguous memory locations. Instead, each node of the linked list is allocated to some random memory space and the previous node maintains a pointer that points to this node.
+
+The topics which you must want to cover are:
+
+1. Singly Linked List – In this, each node of the linked list points only to its next node.
+2. Circular Linked List – This is the type of linked list where the last node points back to the head of the linked list.
+3. Doubly Linked List – In this case, each node of the linked list holds two pointers, one point to the next node and the other points to the previous node.

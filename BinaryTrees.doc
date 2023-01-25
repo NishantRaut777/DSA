@@ -1,0 +1,27 @@
+We know a tree is a non-linear data structure. It has no limitation on the number of children. A binary tree has a limitation as any node of the tree has at most two children: a left and a right child.
+
+
+
+Some terminology of Complete Binary Tree:
+Root – Node in which no edge is coming from the parent. Example -node A
+
+Child – Node having some incoming edge is called child. Example – nodes B, H are the child of A and D respectively.
+
+Sibling – Nodes having the same parent are sibling. Example- J, K are siblings as they have the same parent E.
+
+Degree of a node – Number of children of a particular parent. Example- Degree of A is 2 and Degree of H is 1. Degree of L is 0.
+
+Internal/External nodes – Leaf nodes are external nodes and non leaf nodes are internal nodes.
+
+Level – Count nodes in a path to reach a destination node. Example- Level of node H is 3 as nodes A, D and H themselves form the path.
+
+Height – Number of edges to reach the destination node, Root is at height 0. Example – Height of node E is 2 as it has two edges from the root.
+
+
+What is a Complete Binary Tree?
+A complete binary tree is a special type of binary tree where all the levels of the tree are filled completely except the lowest level nodes which are filled from as left as possible.
+
+Perfect Binary Tree :
+A binary tree of height ‘h’ having the maximum number of nodes is a perfect binary tree. 
+
+
