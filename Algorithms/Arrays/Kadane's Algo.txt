@@ -1,0 +1,4 @@
+1. Keep sum as 0 and maxi as first element
+2. find sum by using sum = sum + arr[i]
+3. Find max element between maxi and sum.
+4. If sum less than 0 then make it 0.
